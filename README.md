@@ -1,7 +1,7 @@
 ## SistemasEmbarcados
 
-| Eduardo Yasui | Gabriel Gamon | Luca Poe | Pedro Vitor | Vitor Alexandre |
-| --------- | --------- | --------- | --------- | --------- | 
+| Eduardo Yasui | Gabriel Gamon | Luca Poe | Pedro Vitor | Vitor Alexandre | Murilo Gimenez |
+| --------- | --------- | --------- | --------- | --------- | | --------- |
 
 ## Projeto: Trava Eletrônica com Senha 
 
